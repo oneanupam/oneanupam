@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anupam-sy/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedInLogo" height="70"></a>
-  <a href="https://blog.anupamyaadav.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
+  <a href="https://tech.anupamyadav.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
 </p>
 
 <p align="center">
