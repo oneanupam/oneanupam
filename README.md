@@ -10,15 +10,6 @@
   <a href="https://blog.anupamyaadav.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
 </p>
 
-<p align=center>
-  <a href="https://github.com/anupam-sy">
-    <img src="https://badges.pufler.dev/visits/anupam-sy/anupam-sy?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/anupam-sy?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/anupam-sy?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
 <p align="center">
 <a href="https://github.com/anupam-sy?tab=followers"><img src="https://img.shields.io/github/followers/anupam-sy?style=social"></a>
 </p>
