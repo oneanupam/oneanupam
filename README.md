@@ -15,7 +15,7 @@
 </p>
 
 ---
-### Tools and Technologies worked on so far
+### Worked on so far
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/> 
@@ -44,7 +44,7 @@
 
 ---
 
-### My Github Stats
+### My Github Statistics
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-sy&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php">
 </p>
