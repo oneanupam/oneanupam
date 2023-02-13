@@ -44,7 +44,7 @@
 
 <p align="center">
      <img src="./images/azure-devops.svg" alt="azure devops" width="55" height="55"/>
-      <img src="./images/azure-pipelines.svg" alt="azure pipelines" width="45" height="45"/>
+      <img src="./images/azure-pipelines.svg" alt="azure pipelines" width="50" height="50"/>
       <img src="./images/bitbucket.svg" alt="bitbucket" width="55" height="55"/>
       <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
 </p>
