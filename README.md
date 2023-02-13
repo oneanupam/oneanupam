@@ -15,7 +15,7 @@
 </p>
 
 ---
-### Tools and technologies worked on so far...
+<p align="center"> ### Technologies worked on so far </p>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/> 
