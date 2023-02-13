@@ -42,6 +42,13 @@
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
 </p>
 
+<p align="center">
+     <img src="./images/azure-devops.svg" alt="azure devops" width="55" height="55"/>
+      <img src="./images/azure-pipelines.svg" alt="azure pipelines" width="55" height="55"/>
+      <img src="./images/bitbucket.svg" alt="bitbucket" width="55" height="55"/>
+      <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
+</p>
+
 ---
 
 ### My Github Statistics
