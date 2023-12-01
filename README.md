@@ -61,7 +61,3 @@
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=anupam-sy&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true">
 </p>
-
-<p align=center>  
-  <img align=center src="https://github-readme-activity-graph.cyclic.app/graph?username=anupam-sy&theme=tokyo-night">
-</p>
