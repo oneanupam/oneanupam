@@ -51,6 +51,7 @@
       <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" width="55" height="55"/>
 </p>
 
 ---
