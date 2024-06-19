@@ -56,8 +56,8 @@
 </p>
 
 <p align="center">
-      <img src="./images/sonarqube-icon.svg" alt="sonarqube" width="55" height="55"/>
-      <img src="./images/sonatype-icon.svg" alt="nexus" width="55" height="55"/>
+      <img src="./images/sonarqube-icon.svg" alt="sonarqube" width="75" height="75"/>
+      <img src="./images/sonatype-icon.svg" alt="nexus" width="75" height="75"/>
 </p>
 
 ---
