@@ -58,6 +58,7 @@
 <p align="center">
       <img src="./images/sonarqube-icon.svg" alt="sonarqube" width="75" height="75"/>
       <img src="./images/sonatype-icon.svg" alt="nexus" width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/aquasec/aquasec-icon.svg" alt="aqua" width="75" height="75"/>
 </p>
 
 ---
