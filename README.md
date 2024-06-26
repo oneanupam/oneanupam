@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/aquasec/aquasec-icon.svg" alt="aqua" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/aquasec/aquasec-icon.svg" alt="aqua" width="45" height="45"/>
       <img src="./images/sonarqube-icon.svg" alt="sonarqube" width="75" height="80"/>
       <img src="./images/sonatype-icon.svg" alt="nexus" width="75" height="80"/>
       <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/>
