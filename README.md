@@ -6,12 +6,12 @@
 <p align="center"> 🌱 On a never-ending quest of learning &nbsp; 📫 Reach out to me on LinkedIn </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anupam-sy/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedInLogo" height="70"></a>
-  <a href="https://tech.anupamyadav.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
+  <a href="https://www.linkedin.com/in/oneanupam/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedInLogo" height="70"></a>
+  <a href="https://techreads.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/anupam-sy?tab=followers"><img src="https://img.shields.io/github/followers/anupam-sy?style=social"></a>
+<a href="https://github.com/oneanupam?tab=followers"><img src="https://img.shields.io/github/followers/oneanupam?style=social"></a>
 </p>
 
 ---
@@ -66,7 +66,7 @@
 
 ### My Github Statistics
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-sy&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php">
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneanupam&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php">
 </p>
 
 <p align=center>  
