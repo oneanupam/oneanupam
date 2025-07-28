@@ -58,6 +58,8 @@
 <p align="center">
   <img src="./images/apache_tomcat.svg" alt="apache tomcat" width="55" height="55"/>
   <img src="./images/apache_maven.svg" alt="apache maven" width="55" height="55"/>
+  <img src="./images/linux.svg" alt="linux" width="55" height="55"/>
+  <img src="./images/windows.svg" alt="windows" width="55" height="55"/>
   <img src="./images/jira.svg" alt="jira" width="55" height="55"/>
   <img src="./images/jira_align.svg" alt="jira-align" width="55" height="55"/>
   <img src="./images/confluence.svg" alt="confluence" width="55" height="55"/>
@@ -71,8 +73,6 @@
   <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>  
   <img src="./images/bash.svg" alt="bash" width="55" height="55"/>
   <img src="./images/powershell.svg" alt="powershell" width="55" height="55"/>
-  <img src="./images/linux.svg" alt="linux" width="55" height="55"/>
-  <img src="./images/windows.svg" alt="windows" width="55" height="55"/>
 </p>
 
 ---
