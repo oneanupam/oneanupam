@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! 👋 I am Anupam Yadav. 🤓</h2>
+0<h2 align="center">Hey there! 👋 I am Anupam Yadav. 🤓</h2>
 
 <p align="center">I work as a Cloud and DevOps Consultant. I hold a Bachelor's degree (Bachelor of Technology - B.Tech) focused in Computer Science from Meerut Institute of Engineering and Technology (MIET), Meerut affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh, India (Formerly Uttar Pradesh Technical University).
 </p>
@@ -20,7 +20,20 @@
   <img src="./images/git-scm-icon.svg" alt="git" width="55" height="55"/>
   <img src="./images/github-icon.svg" alt="github" width="55" height="55"/>
   <img src="./images/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
+  <img src="./images/azure-devops.svg" alt="azure devops" width="55" height="55"/>
+  <img src="./images/github_actions.svg" alt="github-actions" width="55" height="55"/>
+  <img src="./images/bitbucket.svg" alt="bitbucket" width="60" height="60"/>
+  <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
+  <img src="./images/sonatype.jpg" alt="nexus" width="60" height="60"/>
   <img src="./images/jfrog-icon.svg" alt="jfrog" width="55" height="55"/>
+  <img src="./images/harbor-logo.png" alt="harbor" width="55" height="55"/>
+</p>
+
+<p align="center">
+  <img src="./images/docker-icon.svg" alt="docker" width="55" height="55"/>
+  <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+  <img src="./images/helm.svg" alt="helm" width="55" height="55"/>
+  <img src="./images/aqua.svg" alt="aqua" width="50" height="50"/>
   <img src="./images/ansible-icon.svg" alt="ansible" width="55" height="55"/>
   <img src="./images/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
   <img src="./images/packerio-icon.svg" alt="packer" width="55" height="55"/>
@@ -30,14 +43,14 @@
 </p>
 
 <p align="center">
-  <img src="./images/python-icon.svg" alt="python" width="55" height="55"/>
-  <img src="./images/flask.svg" alt="flask" width="55" height="55"/>
-  <img src="./images/docker-icon.svg" alt="docker" width="55" height="55"/>
-  <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+  <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/> 
+  <img src="./images/sonarqube.svg" alt="sonarqube" width="55" height="55"/>
+  <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>   
   <img src="./images/elastic-icon.svg" alt="eastic" width="55" height="55"/>
   <img src="./images/logstash.svg" alt="logstash" width="55" height="55"/>
   <img src="./images/kibana.svg" alt="kibana" width="55" height="55"/>
   <img src="./images/newrelic-icon.svg" alt="newrelic" width="55" height="55"/>
+  <img src="./images/dynatrace.svg" alt="dynatrace" width="55" height="55"/>
   <img src="./images/zabbix-icon.svg" alt="zabbix" width="55" height="55"/>
   <img src="./images/servicenow-icon.svg" alt="servicenow" width="55" height="55"/>
 </p>
@@ -45,30 +58,17 @@
 <p align="center">
   <img src="./images/apache_tomcat.svg" alt="apache tomcat" width="55" height="55"/>
   <img src="./images/apache_maven.svg" alt="apache maven" width="55" height="55"/>
-  <img src="./images/azure-devops.svg" alt="azure devops" width="55" height="55"/>
-  <img src="./images/github_actions.svg" alt="github-actions" width="55" height="55"/>
-  <img src="./images/bitbucket.svg" alt="bitbucket" width="60" height="60"/>
-  <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
-  <img src="./images/helm.svg" alt="helm" width="55" height="55"/>
-  <img src="./images/dynatrace.svg" alt="dynatrace" width="55" height="55"/>
-  <img src="./images/harbor-logo.png" alt="harbor" width="55" height="55"/>
-  <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>
-</p>
-
-<p align="center">
-  <img src="./images/aqua.svg" alt="aqua" width="50" height="50"/>
-  <img src="./images/sonarqube.svg" alt="sonarqube" width="55" height="55"/>
-  <img src="./images/sonatype.jpg" alt="nexus" width="60" height="60"/>
-  <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/>
   <img src="./images/jira.svg" alt="jira" width="55" height="55"/>
   <img src="./images/jira_align.svg" alt="jira-align" width="55" height="55"/>
   <img src="./images/confluence.svg" alt="confluence" width="55" height="55"/>
   <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
   <img src="./images/postman.svg" alt="postman" width="55" height="55"/>
-  <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>
 </p>
 
 <p align="center">
+  <img src="./images/python-icon.svg" alt="python" width="55" height="55"/>
+  <img src="./images/flask.svg" alt="flask" width="55" height="55"/>
+  <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>  
   <img src="./images/bash.svg" alt="bash" width="55" height="55"/>
   <img src="./images/powershell.svg" alt="powershell" width="55" height="55"/>
   <img src="./images/linux.svg" alt="linux" width="55" height="55"/>
