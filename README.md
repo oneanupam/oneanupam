@@ -46,8 +46,8 @@
   <img src="./images/apache_tomcat.svg" alt="apache tomcat" width="55" height="55"/>
   <img src="./images/apache_maven.svg" alt="apache maven" width="55" height="55"/>
   <img src="./images/azure-devops.svg" alt="azure devops" width="55" height="55"/>
-  <img src="./images/azure-pipelines.svg" alt="azure pipelines" width="50" height="50"/>
-  <img src="./images/bitbucket.svg" alt="bitbucket" width="55" height="55"/>
+  <img src="./images/github_actions.svg" alt="github-actions" width="55" height="55"/>
+  <img src="./images/bitbucket.svg" alt="bitbucket" width="60" height="60"/>
   <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
   <img src="./images/helm.svg" alt="helm" width="55" height="55"/>
   <img src="./images/dynatrace.svg" alt="dynatrace" width="55" height="55"/>
@@ -73,7 +73,6 @@
   <img src="./images/powershell.svg" alt="powershell" width="55" height="55"/>
   <img src="./images/linux.svg" alt="linux" width="55" height="55"/>
   <img src="./images/windows.svg" alt="windows" width="55" height="55"/>
-  <img src="./images/github_actions.svg" alt="github-actions" width="55" height="55"/>
 </p>
 
 ---
