@@ -65,6 +65,7 @@
   <img src="./images/confluence.svg" alt="confluence" width="55" height="55"/>
   <img src="./images/servicenow-icon.svg" alt="servicenow" width="55" height="55"/>
   <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
+  <img src="./images/pycharm.svg" alt="vscode" width="55" height="55"/>  
 </p>
 
 <p align="center">
