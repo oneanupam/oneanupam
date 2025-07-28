@@ -46,7 +46,7 @@
   <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/> 
   <img src="./images/sonarqube.svg" alt="sonarqube" width="55" height="55"/>
   <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>
-  <img src="./images/harness_logo.svg" alt="harness" width="55" height="100"/>
+  <img src="./images/harness-platform.png" alt="harness" width="55" height="55"/>
   <img src="./images/elastic-icon.svg" alt="eastic" width="55" height="55"/>
   <img src="./images/logstash.svg" alt="logstash" width="55" height="55"/>
   <img src="./images/kibana.svg" alt="kibana" width="55" height="55"/>
