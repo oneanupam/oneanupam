@@ -50,7 +50,7 @@
   <img src="./images/bitbucket.svg" alt="bitbucket" width="55" height="55"/>
   <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
   <img src="./images/helm.svg" alt="helm" width="55" height="55"/>
-  <img src="./images/dynatrace_logo.svg" alt="dynatrace" width="55" height="55"/>
+  <img src="./images/dynatrace.svg" alt="dynatrace" width="55" height="55"/>
   <img src="./images/harbor-logo.png" alt="harbor" width="55" height="55"/>
   <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>
 </p>
