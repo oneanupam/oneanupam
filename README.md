@@ -61,9 +61,11 @@
   <img src="./images/sonatype.jpg" alt="nexus" width="60" height="60"/>
   <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/>
   <img src="./images/jira.svg" alt="jira" width="55" height="55"/>
-  <img src="./images/jira_align.svg" alt="vscode" width="55" height="55"/>
-  <img src="./images/confluence.svg" alt="vscode" width="55" height="55"/>
+  <img src="./images/jira_align.svg" alt="jira-align" width="55" height="55"/>
+  <img src="./images/confluence.svg" alt="confluence" width="55" height="55"/>
   <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
+  <img src="./images/postman.svg" alt="postman" width="55" height="55"/>
+  <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>
 </p>
 
 ---
