@@ -74,7 +74,9 @@
   <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>  
   <img src="./images/bash.svg" alt="bash" width="55" height="55"/>
   <img src="./images/powershell.svg" alt="powershell" width="55" height="55"/>
-  <img src="./images/postman.svg" alt="postman" width="55" height="55"/>  
+  <img src="./images/postman.svg" alt="postman" width="55" height="55"/>
+  <img src="./images/trivy.png" alt="trivy" width="55" height="55"/>
+  <img src="./images/opa.png" alt="opa" width="55" height="55"/>
 </p>
 
 ---
