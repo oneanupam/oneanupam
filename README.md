@@ -73,6 +73,7 @@
   <img src="./images/powershell.svg" alt="powershell" width="55" height="55"/>
   <img src="./images/linux.svg" alt="linux" width="55" height="55"/>
   <img src="./images/windows.svg" alt="windows" width="55" height="55"/>
+  <img src="./images/github_actions.svg" alt="github-actions" width="55" height="55"/>
 </p>
 
 ---
