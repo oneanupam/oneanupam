@@ -35,8 +35,8 @@
   <img src="./images/docker-icon.svg" alt="docker" width="55" height="55"/>
   <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
   <img src="./images/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-  <img src="./images/logstash.svg" alt="jira" width="55" height="55"/>
-  <img src="./images/kibana.svg" alt="vscode" width="55" height="55"/>
+  <img src="./images/logstash.svg" alt="logstash" width="55" height="55"/>
+  <img src="./images/kibana.svg" alt="kibana" width="55" height="55"/>
   <img src="./images/newrelic-icon.svg" alt="newrelic" width="55" height="55"/>
   <img src="./images/zabbix-icon.svg" alt="zabbix" width="55" height="55"/>
   <img src="./images/servicenow-icon.svg" alt="servicenow" width="55" height="55"/>
@@ -66,6 +66,13 @@
   <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
   <img src="./images/postman.svg" alt="postman" width="55" height="55"/>
   <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>
+</p>
+
+<p align="center">
+  <img src="./images/bash.svg" alt="bash" width="55" height="55"/>
+  <img src="./images/powershell.svg" alt="powershell" width="55" height="55"/>
+  <img src="./images/linux.svg" alt="linux" width="55" height="55"/>
+  <img src="./images/windows.svg" alt="windows" width="55" height="55"/>
 </p>
 
 ---
