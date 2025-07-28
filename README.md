@@ -1,4 +1,4 @@
-0<h2 align="center">Hey there! 👋 I am Anupam Yadav. 🤓</h2>
+<h2 align="center">Hey there! 👋 I am Anupam Yadav. 🤓</h2>
 
 <p align="center">I work as a Cloud and DevOps Consultant. I hold a Bachelor's degree (Bachelor of Technology - B.Tech) focused in Computer Science from Meerut Institute of Engineering and Technology (MIET), Meerut affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh, India (Formerly Uttar Pradesh Technical University).
 </p>
@@ -45,14 +45,14 @@
 <p align="center">
   <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/> 
   <img src="./images/sonarqube.svg" alt="sonarqube" width="55" height="55"/>
-  <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>   
+  <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>
+  <img src="./images/harness_logo.svg" alt="harness" width="55" height="55"/>
   <img src="./images/elastic-icon.svg" alt="eastic" width="55" height="55"/>
   <img src="./images/logstash.svg" alt="logstash" width="55" height="55"/>
   <img src="./images/kibana.svg" alt="kibana" width="55" height="55"/>
   <img src="./images/newrelic-icon.svg" alt="newrelic" width="55" height="55"/>
   <img src="./images/dynatrace.svg" alt="dynatrace" width="55" height="55"/>
   <img src="./images/zabbix-icon.svg" alt="zabbix" width="55" height="55"/>
-  <img src="./images/servicenow-icon.svg" alt="servicenow" width="55" height="55"/>
 </p>
 
 <p align="center">
@@ -63,8 +63,8 @@
   <img src="./images/jira.svg" alt="jira" width="55" height="55"/>
   <img src="./images/jira_align.svg" alt="jira-align" width="55" height="55"/>
   <img src="./images/confluence.svg" alt="confluence" width="55" height="55"/>
+  <img src="./images/servicenow-icon.svg" alt="servicenow" width="55" height="55"/>
   <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
-  <img src="./images/postman.svg" alt="postman" width="55" height="55"/>
 </p>
 
 <p align="center">
@@ -73,6 +73,7 @@
   <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>  
   <img src="./images/bash.svg" alt="bash" width="55" height="55"/>
   <img src="./images/powershell.svg" alt="powershell" width="55" height="55"/>
+  <img src="./images/postman.svg" alt="postman" width="55" height="55"/>  
 </p>
 
 ---
