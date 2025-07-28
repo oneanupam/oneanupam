@@ -30,16 +30,16 @@
 </p>
 
 <p align="center">
-     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+     <img src="./images/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="./images/flask.svg" alt="flask" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="newrelic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
+      <img src="./images/docker-icon.svg" alt="docker" width="55" height="55"/>
+      <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="./images/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="./images/newrelic-icon.svg" alt="newrelic" width="55" height="55"/>
+      <img src="./images/zabbix-icon.svg" alt="zabbix" width="55" height="55"/>
+      <img src="./images/servicenow-icon.svg" alt="servicenow" width="55" height="55"/>
+      <img src="./images/atlassian_jira-icon.svg" alt="jira" width="55" height="55"/>
+      <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
 </p>
 
 <p align="center">
