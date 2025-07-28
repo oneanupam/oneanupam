@@ -19,14 +19,14 @@
 <p align="center">
       <img src="./images/git-scm-icon.svg" alt="git" width="55" height="55"/> 
       <img src="./images/github-icon.svg" alt="github" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="jfrog" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
+      <img src="./images/jenkins-icon.svg" alt="jenkins" width="55" height="55"/> 
+      <img src="./images/jfrog-icon.svg" alt="jfrog" width="55" height="55"/> 
+      <img src="./images/ansible-icon.svg" alt="ansible" width="55" height="55"/> 
+      <img src="./images/terraformio-icon.svg" alt="terraform" width="55" height="55"/> 
+      <img src="./images/packerio-icon.svg" alt="packer" width="55" height="55"/> 
+      <img src="./images/google_cloud-icon.svg" alt="gcp" width="55" height="55"/>
+      <img src="./images/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="./images/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
 </p>
 
 <p align="center">
