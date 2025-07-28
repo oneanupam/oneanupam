@@ -56,8 +56,8 @@
 </p>
 
 <p align="center">
-      <img src="./images/aqua.svg" alt="aqua" width="45" height="45"/></hr>
-      <img src="./images/sonarqube.svg" alt="sonarqube" width="75" height="80"/>
+      <img src="./images/aqua.svg" alt="aqua" width="55" height="55"/></hr>
+      <img src="./images/sonarqube.svg" alt="sonarqube" width="55" height="55"/>
       <img src="./images/sonatype-icon.svg" alt="nexus" width="75" height="80"/>
       <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/>
 </p>
