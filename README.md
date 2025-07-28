@@ -43,20 +43,20 @@
 </p>
 
 <p align="center">
-     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="apache tomcat" width="55" height="55"/>
+     <img src="./images/apache_tomcat-icon.svg" alt="apache tomcat" width="55" height="55"/>
      <img src="./images/maven-icon.svg" alt="apache maven" width="55" height="55"/>
      <img src="./images/azure-devops.svg" alt="azure devops" width="55" height="55"/>
       <img src="./images/azure-pipelines.svg" alt="azure pipelines" width="50" height="50"/>
       <img src="./images/bitbucket.svg" alt="bitbucket" width="55" height="55"/>
       <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" width="55" height="55"/>
+      <img src="./images/helmsh-icon.svg" alt="helm" width="55" height="55"/>
+      <img src="./images/dynatrace-icon.svg" alt="dynatrace" width="55" height="55"/>
+      <img src="./images/goharborio-icon.svg" alt="harbor" width="55" height="55"/>
       <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>
 </p>
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/aquasec/aquasec-icon.svg" alt="aqua" width="45" height="45"/></hr>
+      <img src="./images/aquasec-icon.svg" alt="aqua" width="45" height="45"/></hr>
       <img src="./images/sonarqube-icon.svg" alt="sonarqube" width="75" height="80"/>
       <img src="./images/sonatype-icon.svg" alt="nexus" width="75" height="80"/>
       <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/>
