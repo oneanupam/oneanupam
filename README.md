@@ -1,8 +1,6 @@
 <h2 align="center">Hey there! 👋 I am Anupam. 🤓</h2>
 
-<p align="left">I'm a seasoned Cloud & DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner & practitioner, focusing on applying generative AI to real-world engineering & platform use cases.</p>
-
-<p align="center"> 🌱 On a never-ending quest of learning &nbsp; 📫 Reach out to me on LinkedIn </p>
+<p align="left">I'm a seasoned Cloud & DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner & practitioner, focusing on applying generative AI to real-world engineering & platform use cases. On a never-ending quest of learning! 🌱</p>
 
 ## 🌐 Socials
 <p align="center">
@@ -14,9 +12,7 @@
 <a href="https://github.com/oneanupam?tab=followers"><img src="https://img.shields.io/github/followers/oneanupam?style=social"></a>
 </p>
 
----
-
-### 💻 Tech Stack
+## 💻 Tech Stack
 <p align="center">
   <img src="./images/git-scm-icon.svg" alt="git" width="55" height="55"/>
   <img src="./images/github-icon.svg" alt="github" width="55" height="55"/>
@@ -81,9 +77,7 @@
   <img src="./images/opa.png" alt="opa" width="55" height="55"/>
 </p>
 
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <!-- <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneanupam&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php">
 </p>
