@@ -1,6 +1,6 @@
-<h2 align="center">Hey there! 👋 I am Anupam Yadav. 🤓</h2>
+<h2 align="center">Hey there! 👋 I am Anupam. 🤓</h2>
 
-<p align="center">I am a seasoned Cloud and DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner and practitioner, focusing on applying generative AI to real-world engineering and platform use cases.
+<p align="center">I am a seasoned Cloud and DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner & practitioner, focusing on applying generative AI to real-world engineering & platform use cases.
 </p>
 
 <p align="center"> 🌱 On a never-ending quest of learning &nbsp; 📫 Reach out to me on LinkedIn </p>
@@ -15,7 +15,7 @@
 </p>
 
 ---
-### Worked on so far
+### 💻 Tech Stack
 <p align="center">
   <img src="./images/git-scm-icon.svg" alt="git" width="55" height="55"/>
   <img src="./images/github-icon.svg" alt="github" width="55" height="55"/>
@@ -82,14 +82,15 @@
 
 ---
 
-### My Github Statistics
-<p align=center>  
+### 📊 GitHub Stats
+<!-- <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneanupam&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php">
 </p>
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=oneanupam&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true">
 </p>
+-->
 
 <p align=center>  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=oneanupam&theme=dark" alt="GitHub Streak" />
