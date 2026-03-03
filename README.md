@@ -4,6 +4,7 @@
 
 <p align="center"> 🌱 On a never-ending quest of learning &nbsp; 📫 Reach out to me on LinkedIn </p>
 
+## 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/oneanupam/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedInLogo" height="70"></a>
   <a href="https://techreads.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
