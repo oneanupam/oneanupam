@@ -1,6 +1,6 @@
 <h2 align="center">Hey there! 👋 I am Anupam Yadav. 🤓</h2>
 
-<p align="center">I work as a Cloud and DevOps Consultant. I hold a Bachelor's degree (Bachelor of Technology - B.Tech) focused in Computer Science from Meerut Institute of Engineering and Technology (MIET), Meerut affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh, India (Formerly Uttar Pradesh Technical University).
+<p align="center">I am a seasoned Cloud and DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner and practitioner, focusing on applying generative AI to real-world engineering and platform use cases.
 </p>
 
 <p align="center"> 🌱 On a never-ending quest of learning &nbsp; 📫 Reach out to me on LinkedIn </p>
