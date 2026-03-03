@@ -1,6 +1,6 @@
 <h2 align="center">Hey there! 👋 I am Anupam. 🤓</h2>
 
-<p align="center">I am a seasoned Cloud and DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner & practitioner, focusing on applying generative AI to real-world engineering & platform use cases. Beyond my professional endeavours, I enjoy sharing knowledge, insights, and experiences with the tech community.</p>
+<p align="center">I'm a seasoned Cloud and DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner & practitioner, focusing on applying generative AI to real-world engineering & platform use cases.</p>
 
 <p align="center"> 🌱 On a never-ending quest of learning &nbsp; 📫 Reach out to me on LinkedIn </p>
 
@@ -14,10 +14,7 @@
 </p>
 
 ---
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oneanupam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oneanupam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@a-consultant) 
 
----
 ### 💻 Tech Stack
 <p align="center">
   <img src="./images/git-scm-icon.svg" alt="git" width="55" height="55"/>
