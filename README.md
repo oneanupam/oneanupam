@@ -1,4 +1,4 @@
-<h2>👋 I am Anupam. 🤓</h2>
+<h2>Hi, I'm Anupam.</h2>
 
 📍 **Delhi ↔ London** | 🚀 **Ex-Rackspace, Publicis Sapient**
 
