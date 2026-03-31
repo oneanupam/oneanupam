@@ -1,14 +1,11 @@
-<h2>Hi, I'm Anupam.</h2>
+<h2>Hi, I'm Anupam. 👋</h2>
 
-📍 **Delhi ↔ London** | 🚀 **Ex-Rackspace, Publicis Sapient**
+📍 **Delhi ↔ London** |  **Ex-Rackspace, Publicis Sapient**
+🚀 Actively upskilling. On a never-ending quest of learning!
 
-<p align="left">I'm a seasoned Cloud & DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner & practitioner, focusing on applying generative AI to real-world engineering & platform use cases. On a never-ending quest of learning!</p>
-
-## 🌐 Socials
-<p>
-  <a href="https://www.linkedin.com/in/oneanupam/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedInLogo" height="70"></a>
-  <a href="https://techreads.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
-</p>
+## 🌐 Projects
+- 🐎 **[terracore](https://oneanupam.github.io/terracore/)** - the tf learning project for beginners using google cloud.
+- 🚇 **[seapp](https://github.com/oneanupam/seapp-flask)** - a small example app written in flask framework for learning purposes.
 
 ## 💻 Tech Stack
 <p>
