@@ -16,8 +16,8 @@
 
 ## 💻 Tech Stack
 <p>
-  <img src="./images/git-scm-icon.svg" alt="git" width="25" height="25"/>
-  <img src="./images/github-icon.svg" alt="github" width="25" height="25"/>
+  <img src="./images/git-scm-icon.svg" alt="git" width="35" height="35"/>
+  <img src="./images/github-icon.svg" alt="github" width="35" height="35"/>
   <img src="./images/jenkins-icon.svg" alt="jenkins" width="25" height="25"/>
   <img src="./images/azure-devops.svg" alt="azure devops" width="25" height="25"/>
   <img src="./images/github_actions.svg" alt="github-actions" width="25" height="25"/>
