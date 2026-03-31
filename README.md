@@ -43,28 +43,28 @@
   <img src="./images/elastic-icon.svg" alt="eastic" width="25" height="25"/>
   <img src="./images/logstash.svg" alt="logstash" width="25" height="25"/>
   <img src="./images/kibana.svg" alt="kibana" width="25" height="25"/>
-  <img src="./images/newrelic-icon.svg" alt="newrelic" width="55" height="55"/>
-  <img src="./images/dynatrace.svg" alt="dynatrace" width="55" height="55"/>
-  <img src="./images/zabbix-icon.svg" alt="zabbix" width="55" height="55"/>
-  <img src="./images/apache_tomcat.svg" alt="apache tomcat" width="55" height="55"/>
-  <img src="./images/apache_maven.svg" alt="apache maven" width="55" height="55"/>
-  <img src="./images/linux.svg" alt="linux" width="55" height="55"/>
-  <img src="./images/windows.svg" alt="windows" width="55" height="55"/>
-  <img src="./images/jira.svg" alt="jira" width="55" height="55"/>
-  <img src="./images/jira_align.svg" alt="jira-align" width="55" height="55"/>
-  <img src="./images/confluence.svg" alt="confluence" width="55" height="55"/>
-  <img src="./images/servicenow-icon.svg" alt="servicenow" width="55" height="55"/>
-  <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
-  <img src="./images/pycharm.svg" alt="vscode" width="55" height="55"/>  
-  <img src="./images/python-icon.svg" alt="python" width="55" height="55"/>
-  <img src="./images/flask.svg" alt="flask" width="55" height="55"/>
-  <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>  
-  <img src="./images/bash.svg" alt="bash" width="55" height="55"/>
-  <img src="./images/powershell.svg" alt="powershell" width="55" height="55"/>
-  <img src="./images/postman.svg" alt="postman" width="55" height="55"/>
-  <img src="./images/trivy.png" alt="trivy" width="55" height="55"/>
-  <img src="./images/tfsec.png" alt="trivy" width="40" height="50"/>  
-  <img src="./images/opa.png" alt="opa" width="55" height="55"/>
+  <img src="./images/newrelic-icon.svg" alt="newrelic" width="25" height="25"/>
+  <img src="./images/dynatrace.svg" alt="dynatrace" width="25" height="25"/>
+  <img src="./images/zabbix-icon.svg" alt="zabbix" width="25" height="25"/>
+  <img src="./images/apache_tomcat.svg" alt="apache tomcat" width="25" height="25"/>
+  <img src="./images/apache_maven.svg" alt="apache maven" width="25" height="25"/>
+  <img src="./images/linux.svg" alt="linux" width="25" height="25"/>
+  <img src="./images/windows.svg" alt="windows" width="25" height="25"/>
+  <img src="./images/jira.svg" alt="jira" width="25" height="25"/>
+  <img src="./images/jira_align.svg" alt="jira-align" width="25" height="25"/>
+  <img src="./images/confluence.svg" alt="confluence" width="25" height="25"/>
+  <img src="./images/servicenow-icon.svg" alt="servicenow" width="25" height="25"/>
+  <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="25" height="25"/>
+  <img src="./images/pycharm.svg" alt="vscode" width="25" height="25"/>  
+  <img src="./images/python-icon.svg" alt="python" width="25" height="25"/>
+  <img src="./images/flask.svg" alt="flask" width="25" height="25"/>
+  <img src="./images/go-lang.svg" alt="go-lang" width="25" height="25"/>  
+  <img src="./images/bash.svg" alt="bash" width="25" height="25"/>
+  <img src="./images/powershell.svg" alt="powershell" width="25" height="25"/>
+  <img src="./images/postman.svg" alt="postman" width="25" height="25"/>
+  <img src="./images/trivy.png" alt="trivy" width="25" height="25"/>
+  <img src="./images/tfsec.png" alt="trivy" width="25" height="25"/>  
+  <img src="./images/opa.png" alt="opa" width="25" height="25"/>
 </p>
 
 ## 📊 GitHub Stats
