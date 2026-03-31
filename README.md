@@ -5,12 +5,9 @@
 <p align="left">I'm a seasoned Cloud & DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner & practitioner, focusing on applying generative AI to real-world engineering & platform use cases. On a never-ending quest of learning!</p>
 
 ## 🌐 Socials
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/oneanupam/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedInLogo" height="70"></a>
   <a href="https://techreads.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
-</p>
-
-<p align="center">
 <a href="https://github.com/oneanupam?tab=followers"><img src="https://img.shields.io/github/followers/oneanupam?style=social"></a>
 </p>
 
