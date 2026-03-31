@@ -8,7 +8,6 @@
 <p>
   <a href="https://www.linkedin.com/in/oneanupam/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedInLogo" height="70"></a>
   <a href="https://techreads.in/"><img src="https://www.vectorlogo.zone/logos/blogger/blogger-ar21.svg" alt="BloggerLogo" height="70"></a>
-<a href="https://github.com/oneanupam?tab=followers"><img src="https://img.shields.io/github/followers/oneanupam?style=social"></a>
 </p>
 
 ## 💻 Tech Stack
