@@ -17,32 +17,32 @@
 ## 💻 Tech Stack
 <p>
   <img src="./images/git-scm-icon.svg" alt="git" width="25" height="25"/>
-  <img src="./images/github-icon.svg" alt="github" width="55" height="55"/>
-  <img src="./images/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
-  <img src="./images/azure-devops.svg" alt="azure devops" width="55" height="55"/>
-  <img src="./images/github_actions.svg" alt="github-actions" width="55" height="55"/>
-  <img src="./images/bitbucket.svg" alt="bitbucket" width="60" height="60"/>
-  <img src="./images/gitlab-icon.svg" alt="gitlab" width="55" height="55"/>
-  <img src="./images/sonatype.jpg" alt="nexus" width="60" height="60"/>
-  <img src="./images/jfrog-icon.svg" alt="jfrog" width="55" height="55"/>
-  <img src="./images/harbor-logo.png" alt="harbor" width="55" height="55"/>
-  <img src="./images/docker-icon.svg" alt="docker" width="55" height="55"/>
-  <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-  <img src="./images/helm.svg" alt="helm" width="55" height="55"/>
-  <img src="./images/aqua.svg" alt="aqua" width="50" height="50"/>
-  <img src="./images/ansible-icon.svg" alt="ansible" width="55" height="55"/>
-  <img src="./images/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
-  <img src="./images/packerio-icon.svg" alt="packer" width="55" height="55"/>
-  <img src="./images/google_cloud-icon.svg" alt="gcp" width="55" height="55"/>
-  <img src="./images/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-  <img src="./images/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
-  <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/> 
-  <img src="./images/sonarqube.svg" alt="sonarqube" width="55" height="55"/>
-  <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>
-  <img src="./images/harness-platform.png" alt="harness" width="55" height="55"/>
-  <img src="./images/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-  <img src="./images/logstash.svg" alt="logstash" width="55" height="55"/>
-  <img src="./images/kibana.svg" alt="kibana" width="55" height="55"/>
+  <img src="./images/github-icon.svg" alt="github" width="25" height="25"/>
+  <img src="./images/jenkins-icon.svg" alt="jenkins" width="25" height="25"/>
+  <img src="./images/azure-devops.svg" alt="azure devops" width="25" height="25"/>
+  <img src="./images/github_actions.svg" alt="github-actions" width="25" height="25"/>
+  <img src="./images/bitbucket.svg" alt="bitbucket" width="25" height="25"/>
+  <img src="./images/gitlab-icon.svg" alt="gitlab" width="25" height="25"/>
+  <img src="./images/sonatype.jpg" alt="nexus" width="25" height="25"/>
+  <img src="./images/jfrog-icon.svg" alt="jfrog" width="25" height="25"/>
+  <img src="./images/harbor-logo.png" alt="harbor" width="25" height="25"/>
+  <img src="./images/docker-icon.svg" alt="docker" width="25" height="25"/>
+  <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="25" height="25"/>
+  <img src="./images/helm.svg" alt="helm" width="25" height="25"/>
+  <img src="./images/aqua.svg" alt="aqua" width="25" height="25"/>
+  <img src="./images/ansible-icon.svg" alt="ansible" width="25" height="25"/>
+  <img src="./images/terraformio-icon.svg" alt="terraform" width="25" height="25"/>
+  <img src="./images/packerio-icon.svg" alt="packer" width="25" height="25"/>
+  <img src="./images/google_cloud-icon.svg" alt="gcp" width="25" height="25"/>
+  <img src="./images/microsoft_azure-icon.svg" alt="azure" width="25" height="25"/>
+  <img src="./images/amazon_aws-icon.svg" alt="aws" width="25" height="25"/>
+  <img src="./images/trufflehog-icon.png" alt="trufflehog" width="25" height="25"/> 
+  <img src="./images/sonarqube.svg" alt="sonarqube" width="25" height="25"/>
+  <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="25" height="25"/>
+  <img src="./images/harness-platform.png" alt="harness" width="25" height="25"/>
+  <img src="./images/elastic-icon.svg" alt="eastic" width="25" height="25"/>
+  <img src="./images/logstash.svg" alt="logstash" width="25" height="25"/>
+  <img src="./images/kibana.svg" alt="kibana" width="25" height="25"/>
   <img src="./images/newrelic-icon.svg" alt="newrelic" width="55" height="55"/>
   <img src="./images/dynatrace.svg" alt="dynatrace" width="55" height="55"/>
   <img src="./images/zabbix-icon.svg" alt="zabbix" width="55" height="55"/>
