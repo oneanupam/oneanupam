@@ -15,7 +15,7 @@
 </p>
 
 ## 💻 Tech Stack
-<p align="center">
+<p>
   <img src="./images/git-scm-icon.svg" alt="git" width="55" height="55"/>
   <img src="./images/github-icon.svg" alt="github" width="55" height="55"/>
   <img src="./images/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
@@ -28,7 +28,7 @@
   <img src="./images/harbor-logo.png" alt="harbor" width="55" height="55"/>
 </p>
 
-<p align="center">
+<p>
   <img src="./images/docker-icon.svg" alt="docker" width="55" height="55"/>
   <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
   <img src="./images/helm.svg" alt="helm" width="55" height="55"/>
@@ -41,7 +41,7 @@
   <img src="./images/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
 </p>
 
-<p align="center">
+<p>
   <img src="./images/trufflehog-icon.png" alt="trufflehog" width="55" height="55"/> 
   <img src="./images/sonarqube.svg" alt="sonarqube" width="55" height="55"/>
   <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="55" height="55"/>
@@ -54,7 +54,7 @@
   <img src="./images/zabbix-icon.svg" alt="zabbix" width="55" height="55"/>
 </p>
 
-<p align="center">
+<p>
   <img src="./images/apache_tomcat.svg" alt="apache tomcat" width="55" height="55"/>
   <img src="./images/apache_maven.svg" alt="apache maven" width="55" height="55"/>
   <img src="./images/linux.svg" alt="linux" width="55" height="55"/>
@@ -67,7 +67,7 @@
   <img src="./images/pycharm.svg" alt="vscode" width="55" height="55"/>  
 </p>
 
-<p align="center">
+<p>
   <img src="./images/python-icon.svg" alt="python" width="55" height="55"/>
   <img src="./images/flask.svg" alt="flask" width="55" height="55"/>
   <img src="./images/go-lang.svg" alt="go-lang" width="55" height="55"/>  
