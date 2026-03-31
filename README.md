@@ -1,5 +1,7 @@
 <h2 align="center">Hey there! 👋 I am Anupam. 🤓</h2>
 
+📍 **Delhi ↔ London** | 🚀 **Ex-Rackspace, Publicis Sapient**
+
 <p align="left">I'm a seasoned Cloud & DevOps Consultant with a Bachelor’s degree in Computer Science and Engineering (B.Tech). Actively upskilling as a Generative AI learner & practitioner, focusing on applying generative AI to real-world engineering & platform use cases. On a never-ending quest of learning!</p>
 
 ## 🌐 Socials
