@@ -4,10 +4,10 @@
 🚀 Actively upskilling. On a never-ending quest of learning!
 
 ## 🌐 Socials
-[![Blog](https://img.shields.io/badge/-techreads.in-0f172a?style=flat&logo=blogger&logoColor=white)](https://techreads.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/oneanupam)
-[![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/oneanupam)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@a-consultant)
+[![Blog](https://img.shields.io/badge/-techreads.in-0f172a?style=flat&logo=blogger&logoColor=white)](https://techreads.in/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=logmein&logoColor=white)](https://www.linkedin.com/in/oneanupam/)
+[![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/oneanupam/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@a-consultant)
 
 ## 🛠️ Projects
 - 👨‍💻 **[terracore](https://oneanupam.github.io/terracore/)** - the terraform learning project using google cloud for beginners.
