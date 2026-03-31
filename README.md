@@ -18,53 +18,53 @@
 <p>
   <img src="./images/git-scm-icon.svg" alt="git" width="35" height="35"/>
   <img src="./images/github-icon.svg" alt="github" width="35" height="35"/>
-  <img src="./images/jenkins-icon.svg" alt="jenkins" width="25" height="25"/>
-  <img src="./images/azure-devops.svg" alt="azure devops" width="25" height="25"/>
-  <img src="./images/github_actions.svg" alt="github-actions" width="25" height="25"/>
-  <img src="./images/bitbucket.svg" alt="bitbucket" width="25" height="25"/>
-  <img src="./images/gitlab-icon.svg" alt="gitlab" width="25" height="25"/>
-  <img src="./images/sonatype.jpg" alt="nexus" width="25" height="25"/>
-  <img src="./images/jfrog-icon.svg" alt="jfrog" width="25" height="25"/>
-  <img src="./images/harbor-logo.png" alt="harbor" width="25" height="25"/>
-  <img src="./images/docker-icon.svg" alt="docker" width="25" height="25"/>
-  <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="25" height="25"/>
-  <img src="./images/helm.svg" alt="helm" width="25" height="25"/>
-  <img src="./images/aqua.svg" alt="aqua" width="25" height="25"/>
-  <img src="./images/ansible-icon.svg" alt="ansible" width="25" height="25"/>
-  <img src="./images/terraformio-icon.svg" alt="terraform" width="25" height="25"/>
-  <img src="./images/packerio-icon.svg" alt="packer" width="25" height="25"/>
-  <img src="./images/google_cloud-icon.svg" alt="gcp" width="25" height="25"/>
-  <img src="./images/microsoft_azure-icon.svg" alt="azure" width="25" height="25"/>
-  <img src="./images/amazon_aws-icon.svg" alt="aws" width="25" height="25"/>
-  <img src="./images/trufflehog-icon.png" alt="trufflehog" width="25" height="25"/> 
-  <img src="./images/sonarqube.svg" alt="sonarqube" width="25" height="25"/>
-  <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="25" height="25"/>
-  <img src="./images/harness-platform.png" alt="harness" width="25" height="25"/>
-  <img src="./images/elastic-icon.svg" alt="eastic" width="25" height="25"/>
-  <img src="./images/logstash.svg" alt="logstash" width="25" height="25"/>
-  <img src="./images/kibana.svg" alt="kibana" width="25" height="25"/>
-  <img src="./images/newrelic-icon.svg" alt="newrelic" width="25" height="25"/>
-  <img src="./images/dynatrace.svg" alt="dynatrace" width="25" height="25"/>
-  <img src="./images/zabbix-icon.svg" alt="zabbix" width="25" height="25"/>
-  <img src="./images/apache_tomcat.svg" alt="apache tomcat" width="25" height="25"/>
-  <img src="./images/apache_maven.svg" alt="apache maven" width="25" height="25"/>
-  <img src="./images/linux.svg" alt="linux" width="25" height="25"/>
-  <img src="./images/windows.svg" alt="windows" width="25" height="25"/>
-  <img src="./images/jira.svg" alt="jira" width="25" height="25"/>
-  <img src="./images/jira_align.svg" alt="jira-align" width="25" height="25"/>
-  <img src="./images/confluence.svg" alt="confluence" width="25" height="25"/>
-  <img src="./images/servicenow-icon.svg" alt="servicenow" width="25" height="25"/>
-  <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="25" height="25"/>
-  <img src="./images/pycharm.svg" alt="vscode" width="25" height="25"/>  
-  <img src="./images/python-icon.svg" alt="python" width="25" height="25"/>
-  <img src="./images/flask.svg" alt="flask" width="25" height="25"/>
-  <img src="./images/go-lang.svg" alt="go-lang" width="25" height="25"/>  
-  <img src="./images/bash.svg" alt="bash" width="25" height="25"/>
-  <img src="./images/powershell.svg" alt="powershell" width="25" height="25"/>
-  <img src="./images/postman.svg" alt="postman" width="25" height="25"/>
-  <img src="./images/trivy.png" alt="trivy" width="25" height="25"/>
-  <img src="./images/tfsec.png" alt="trivy" width="25" height="25"/>  
-  <img src="./images/opa.png" alt="opa" width="25" height="25"/>
+  <img src="./images/jenkins-icon.svg" alt="jenkins" width="35" height="35"/>
+  <img src="./images/azure-devops.svg" alt="azure devops" width="35" height="35"/>
+  <img src="./images/github_actions.svg" alt="github-actions" width="35" height="35"/>
+  <img src="./images/bitbucket.svg" alt="bitbucket" width="35" height="35"/>
+  <img src="./images/gitlab-icon.svg" alt="gitlab" width="35" height="35"/>
+  <img src="./images/sonatype.jpg" alt="nexus" width="35" height="35"/>
+  <img src="./images/jfrog-icon.svg" alt="jfrog" width="35" height="35"/>
+  <img src="./images/harbor-logo.png" alt="harbor" width="35" height="35"/>
+  <img src="./images/docker-icon.svg" alt="docker" width="35" height="35"/>
+  <img src="./images/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/>
+  <img src="./images/helm.svg" alt="helm" width="35" height="35"/>
+  <img src="./images/aqua.svg" alt="aqua" width="35" height="35"/>
+  <img src="./images/ansible-icon.svg" alt="ansible" width="35" height="35"/>
+  <img src="./images/terraformio-icon.svg" alt="terraform" width="35" height="35"/>
+  <img src="./images/packerio-icon.svg" alt="packer" width="35" height="35"/>
+  <img src="./images/google_cloud-icon.svg" alt="gcp" width="35" height="35"/>
+  <img src="./images/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/>
+  <img src="./images/amazon_aws-icon.svg" alt="aws" width="35" height="35"/>
+  <img src="./images/trufflehog-icon.png" alt="trufflehog" width="35" height="35"/> 
+  <img src="./images/sonarqube.svg" alt="sonarqube" width="35" height="35"/>
+  <img src="./images/spinnaker-icon.svg" alt="spinnaker" width="35" height="35"/>
+  <img src="./images/harness-platform.png" alt="harness" width="35" height="35"/>
+  <img src="./images/elastic-icon.svg" alt="eastic" width="35" height="35"/>
+  <img src="./images/logstash.svg" alt="logstash" width="35" height="35"/>
+  <img src="./images/kibana.svg" alt="kibana" width="35" height="35"/>
+  <img src="./images/newrelic-icon.svg" alt="newrelic" width="35" height="35"/>
+  <img src="./images/dynatrace.svg" alt="dynatrace" width="35" height="35"/>
+  <img src="./images/zabbix-icon.svg" alt="zabbix" width="35" height="35"/>
+  <img src="./images/apache_tomcat.svg" alt="apache tomcat" width="35" height="35"/>
+  <img src="./images/apache_maven.svg" alt="apache maven" width="35" height="35"/>
+  <img src="./images/linux.svg" alt="linux" width="35" height="35"/>
+  <img src="./images/windows.svg" alt="windows" width="35" height="35"/>
+  <img src="./images/jira.svg" alt="jira" width="35" height="35"/>
+  <img src="./images/jira_align.svg" alt="jira-align" width="35" height="35"/>
+  <img src="./images/confluence.svg" alt="confluence" width="35" height="35"/>
+  <img src="./images/servicenow-icon.svg" alt="servicenow" width="35" height="35"/>
+  <img src="./images/visualstudio_code-icon.svg" alt="vscode" width="35" height="35"/>
+  <img src="./images/pycharm.svg" alt="vscode" width="35" height="35"/>  
+  <img src="./images/python-icon.svg" alt="python" width="35" height="35"/>
+  <img src="./images/flask.svg" alt="flask" width="35" height="35"/>
+  <img src="./images/go-lang.svg" alt="go-lang" width="35" height="35"/>  
+  <img src="./images/bash.svg" alt="bash" width="35" height="35"/>
+  <img src="./images/powershell.svg" alt="powershell" width="35" height="35"/>
+  <img src="./images/postman.svg" alt="postman" width="35" height="35"/>
+  <img src="./images/trivy.png" alt="trivy" width="35" height="35"/>
+  <img src="./images/tfsec.png" alt="trivy" width="35" height="35"/>  
+  <img src="./images/opa.png" alt="opa" width="35" height="35"/>
 </p>
 
 ## 📊 GitHub Stats
