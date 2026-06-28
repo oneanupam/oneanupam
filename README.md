@@ -1,6 +1,6 @@
 <h2>Hi, I'm Anupam. 👋</h2>
 
-📍 Delhi, India <br>
+📍 Delhi, India ↔ London, England, UK <br>
 💼 HCLTech | Ex-Rackspace, Publicis Sapient <br>
 🚀 Actively upskilling. On a never-ending quest of learning!
 
