@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=logmein&logoColor=white)](https://www.linkedin.com/in/oneanupam/)
 [![GitHub](https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/oneanupam/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@a-consultant)
+[![Credly](https://img.shields.io/badge/-Credly-00A5E3?style=flat&logo=credly&logoColor=white)](http://credly.com/users/oneanupam)
 
 ## 🛠️ Projects
 - 👨‍💻 **[terracore](https://oneanupam.github.io/terracore/)** - the terraform learning project using google cloud for beginners.
