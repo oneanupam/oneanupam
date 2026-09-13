@@ -16,7 +16,7 @@
 - 🌿 **[seapp](https://github.com/oneanupam/seapp-flask)** - a small example app written in flask framework for learning purposes.
 - 🍁 **[genesis](https://github.com/oneanupam/genesis)** - a lightweight project to help new programmers master python fundamentals.
 - ⚙️ **[gfoundry](https://github.com/oneanupam/gfoundry)** - a curated collection of utility scripts to automate resource management on gcp.
-- 🪐 **[orbit](https://github.com/oneanupam/orbit)** - a centralized ecosystem of autonomous ai agents built using the google adk.
+- 🪐 **[orbit](https://github.com/oneanupam/orbit)** - an experimental ecosystem of autonomous ai agents built using the google adk.
 
 ## 💻 Tech Stack
 <p>
